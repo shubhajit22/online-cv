@@ -26,24 +26,26 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Bengali
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Photography
         link:
 
-      - item: Snowboarding
+      - item: Graphic Design
         link:
 
-      - item: Cooking
+      - item: Guiter Playing
         link:
+      
+      - item: 
 
 career-profile:
     title: Career Profile
